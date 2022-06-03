@@ -1,0 +1,13 @@
+.navbar{
+    height: 20px;
+    width: 60%;
+    margin: auto;
+    display: flex; 
+    justify-content: space-evenly;
+}
+
+.tab{
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid;
+}
